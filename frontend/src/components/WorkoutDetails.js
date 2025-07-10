@@ -11,7 +11,9 @@ export default function WorkoutDetails({ workout }) {
 
     if (response.ok) {
       dispatch({ type: "DELETE_WORKOUT", payload: json });
-    }
+    }else {
+    console.error("Delete failed:", json);
+  }
   }
 
   return (
