@@ -8,7 +8,7 @@ export default function Home() {
 
   useEffect(() => {
     async function fetchWorkouts() {
-      const response = await fetch("http://localhost:4000/api/workouts");
+      const response = await fetch("https://workouts-mern-backend-odeg.onrender.com/api/workouts");
       const json = await response.json();
 
 
