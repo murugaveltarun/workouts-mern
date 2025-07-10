@@ -4,7 +4,7 @@ export default function WorkoutDetails({ workout }) {
   const { dispatch } = useWorkoutsContext();
   async function handleDelete() {
     const response = await fetch(
-      "https://workouts-mern-backend-odeg.onrender.com/" + workout._id,
+      `https://workouts-mern-backend-odeg.onrender.com/api/workouts/${workout._id}`,
       { method: "DELETE" }
     );
     const json = await response.json();
