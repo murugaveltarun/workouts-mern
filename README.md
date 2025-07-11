@@ -5,9 +5,9 @@
     A full-stack web application for logging and tracking workouts, built with the MERN stack.
   </p>
 </div>
-
-<div align="center">
-  <h3>Built With</h3>
+---
+<div align="left">
+  <h2>Built With</h2>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
