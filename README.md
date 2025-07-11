@@ -1,7 +1,7 @@
 
-<div align="center">
-  <h1 align="center">MERN Workout Tracker</h1>
-  <p align="center">
+<div align="left">
+  <h1 align="left">MERN Workout Tracker</h1>
+  <p align="left">
     A full-stack web application for logging and tracking workouts, built with the MERN stack.
   </p>
 </div>
