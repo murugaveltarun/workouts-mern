@@ -5,7 +5,7 @@
     A full-stack web application for logging and tracking workouts, built with the MERN stack.
   </p>
 </div>
----
+
 <div align="left">
   <h2>Built With</h2>
   <p>
