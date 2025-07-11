@@ -4,7 +4,7 @@ A full-stack web application for logging and tracking workouts. Users can add, v
 
 **Live Demo:** [https://workouts-mern-frontend.onrender.com](https://workouts-mern-frontend.onrender.com)
 
-![Workout Tracker Screenshot](./img.jpeg)
+![Workout Tracker Screenshot](./my_workouts.png)
 
 ---
 
