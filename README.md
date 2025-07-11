@@ -6,8 +6,6 @@
   </p>
 </div>
 
-
-
 <div align="center">
   <h3>Built With</h3>
   <p>
@@ -21,10 +19,16 @@
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
   </p>
 </div>
+
 ---
+
 **Live Demo:** [https://workouts-mern-frontend.onrender.com](https://workouts-mern-frontend.onrender.com)
 
+<div align="center">
+
 ![Workout Tracker Screenshot](./my_workouts.png)
+
+</div>
 
 ---
 
