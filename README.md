@@ -59,8 +59,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/murugaveltarun/workouts-mern.git
+    cd workouts-mern
     ```
 
 2.  **Setup the Backend (Server)**
